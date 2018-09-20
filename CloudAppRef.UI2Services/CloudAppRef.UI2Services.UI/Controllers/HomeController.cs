@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using CloudAppRef.UI.Models;
+using CloudAppRef.UI2Services.UI.Models;
 
-namespace CloudAppRef.UI.Controllers
+namespace CloudAppRef.UI2Services.UI.Controllers
 {
     public class HomeController : Controller
     {

@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace CloudAppRef.UI
+namespace CloudAppRef.UI2Services.Service1
 {
     public class Program
     {

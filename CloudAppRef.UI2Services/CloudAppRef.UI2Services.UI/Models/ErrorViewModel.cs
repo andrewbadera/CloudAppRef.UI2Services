@@ -1,6 +1,6 @@
 using System;
 
-namespace CloudAppRef.UI.Models
+namespace CloudAppRef.UI2Services.UI.Models
 {
     public class ErrorViewModel
     {

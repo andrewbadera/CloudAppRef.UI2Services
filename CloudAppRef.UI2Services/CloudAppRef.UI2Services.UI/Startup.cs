@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace CloudAppRef.UI
+namespace CloudAppRef.UI2Services.UI
 {
     public class Startup
     {
